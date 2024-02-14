@@ -1,3 +1,5 @@
+Project - Sales and Profit Dashboard
+
 Skills Used: Microsoft Excel
 
 1.Created a Sales & Profit dashboard in MS Excel using Pivot table, Charts and Slicer features from the given Sales and Revenue Data.
